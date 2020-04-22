@@ -1,4 +1,4 @@
-**Legend of column headings**
+# Legend of column headings
 
 *ID_case* = unique identifier of "analytical case" (link to individual CaseID datasets)
 
