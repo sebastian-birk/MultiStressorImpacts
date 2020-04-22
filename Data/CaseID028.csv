@@ -1,0 +1,25 @@
+﻿SampleID;x1;x2;y;RandomEffect
+1;no addition;control;86.48;1
+2;no addition;control;74.97;2
+3;no addition;control;35.22;3
+4;NaH2PO4 addition [18.4 ± 6.4µg l-1];control;30.62;1
+5;NaH2PO4 addition [18.4 ± 6.4µg l-1];control;94.21;2
+6;NaH2PO4 addition [18.4 ± 6.4µg l-1];control;40.95;3
+7;no addition;hydropeaking;75.67;1
+8;no addition;hydropeaking;89.17;2
+9;no addition;hydropeaking;40.53;3
+10;NaH2PO4 addition [18.4 ± 6.4µg l-1];hydropeaking;74.93;1
+11;NaH2PO4 addition [18.4 ± 6.4µg l-1];hydropeaking;74.68;2
+12;NaH2PO4 addition [18.4 ± 6.4µg l-1];hydropeaking;89.55;3
+13;no addition;control;81.8;1
+14;no addition;control;69.7;2
+15;no addition;control;75.4;3
+16;NaH2PO4 addition [18.4 ± 6.4µg l-1];control;9.9;1
+17;NaH2PO4 addition [18.4 ± 6.4µg l-1];control;5.2;2
+18;NaH2PO4 addition [18.4 ± 6.4µg l-1];control;44.6;3
+19;no addition;hydropeaking;56.5;1
+20;no addition;hydropeaking;63.8;2
+21;no addition;hydropeaking;84;3
+22;NaH2PO4 addition [18.4 ± 6.4µg l-1];hydropeaking;90.6;1
+23;NaH2PO4 addition [18.4 ± 6.4µg l-1];hydropeaking;82.8;2
+24;NaH2PO4 addition [18.4 ± 6.4µg l-1];hydropeaking;82.9;3
