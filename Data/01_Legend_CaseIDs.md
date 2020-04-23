@@ -1,4 +1,5 @@
 # Legend: *CaseIDxyz.csv*
+Note: 
 
 Column header|Description
 -------------|-----------
