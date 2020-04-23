@@ -1,4 +1,4 @@
-# Legend *0_Metadata.csv*
+# Legend: *0_Metadata.csv*
 
 Column header|Description
 -------------|-----------
