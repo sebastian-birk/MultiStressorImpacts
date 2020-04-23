@@ -2,7 +2,7 @@
 
 Column header|Description
 -------------|-----------
-ID_case|Unique identifier of "analytical case" (link to individual CaseID datasets)
+ID_case|Unique identifier of analytical case *(link to individual CaseID datasets)*
 **ID_study**|Unique identifier of case study (see Supplementary Table 1)
 Study_name|Name of the case study
 Study_type|Spatial scale of the study (Experiment, Basin, Cross-basin)
