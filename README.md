@@ -11,3 +11,5 @@ The folder *"Data"* includes
 The folder *"R-script"* includes
 1. the **R-code** (*"cleancode.R"*) used to analyse the paired-stressor response datasets, and
 2. the related **R-functions** (*"functions.R"*) embedded in the R-code.
+
+[a relative link](other_file.md)
