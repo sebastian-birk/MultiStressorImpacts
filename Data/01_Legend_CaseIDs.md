@@ -1,5 +1,5 @@
 # Legend: *CaseIDxyz.csv*
-Note: Variables are specified in the file *=_Metadata.csv*
+Note: Variables are specified in the file *"[0_Metadata.csv](/)"*
 
 Column header|Description
 -------------|-----------
