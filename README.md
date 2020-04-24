@@ -7,7 +7,8 @@ This repository contains the **regression metadata**, the **174 paired-stressor 
 The folder *"Data"* includes
 1. the **regression metadata** as *semicolon-separated values* and the file *"00_Legend_Metadata.md"* specifying the column-headers;
 2. the **174 paired-stressor response datasets** as *semicolon-separated values* and the file *"01_Legend_CaseIDs.md"* specifying the column-headers.
+Note that the bla
 
 The folder *"R-script"* includes
-1. the **R-code** (*cleancode.R*) used to analyse the paired-stressor response datasets, and
-2. the related **R-functions** (*functions.R*) embedded in the R-code.
+1. the **R-code** (*"cleancode.R"*) used to analyse the paired-stressor response datasets, and
+2. the related **R-functions** (*"functions.R"*) embedded in the R-code.
