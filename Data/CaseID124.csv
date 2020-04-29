@@ -1,0 +1,833 @@
+﻿SampleID;x1;x2;y;RandomEffect
+1;No nutrient addition;Unflushed;159.46;1
+2;No nutrient addition;Flushed;52.003;2
+3;Nutrient addition;Flushed;19.278;3
+4;Nutrient addition;Unflushed;18.1832;4
+5;No nutrient addition;Unflushed;30.07454545;5
+6;Nutrient addition;Flushed;92.344;6
+7;Nutrient addition;Unflushed;85.442;7
+8;No nutrient addition;Flushed;56.644;8
+9;Nutrient addition;Flushed;24.4664;9
+10;Nutrient addition;Unflushed;33.63733333;10
+11;Nutrient addition;Flushed;18.088;11
+12;No nutrient addition;Unflushed;20.468;12
+13;No nutrient addition;Unflushed;19.176;13
+14;Nutrient addition;Unflushed;40.61866667;14
+15;No nutrient addition;Flushed;68.782;15
+16;No nutrient addition;Flushed;2.6656;16
+17;Nutrient addition;Unflushed;5.95;17
+18;Nutrient addition;Unflushed;66.759;18
+19;No nutrient addition;Unflushed;8.568;19
+20;Nutrient addition;Flushed;6.5688;20
+21;No nutrient addition;Flushed;31.416;21
+22;No nutrient addition;Flushed;47.005;22
+23;Nutrient addition;Flushed;42.84;23
+24;No nutrient addition;Unflushed;6.2832;24
+25;No nutrient addition;Flushed;94.486;25
+26;Nutrient addition;Unflushed;132.804;26
+27;No nutrient addition;Flushed;10.0436;27
+28;Nutrient addition;Flushed;69.615;28
+29;No nutrient addition;Unflushed;29.1312;29
+30;Nutrient addition;Unflushed;31.892;30
+31;Nutrient addition;Flushed;23.205;31
+32;No nutrient addition;Unflushed;3.7128;32
+33;No nutrient addition;Unflushed;97.342;1
+34;No nutrient addition;Flushed;5.712;2
+35;Nutrient addition;Flushed;47.005;3
+36;Nutrient addition;Unflushed;27.05266667;4
+37;No nutrient addition;Unflushed;35.54133333;5
+38;Nutrient addition;Flushed;4.4268;6
+39;Nutrient addition;Unflushed;43.673;7
+40;No nutrient addition;Flushed;74.97;8
+41;Nutrient addition;Flushed;30.107;9
+42;Nutrient addition;Unflushed;32.9392;10
+43;Nutrient addition;Flushed;44.863;11
+44;No nutrient addition;Unflushed;3.094;12
+45;No nutrient addition;Unflushed;26.0848;13
+46;Nutrient addition;Unflushed;6.6045;14
+47;No nutrient addition;Flushed;13.9944;15
+48;No nutrient addition;Flushed;6.8544;16
+49;Nutrient addition;Unflushed;8.0444;17
+50;Nutrient addition;Unflushed;19.754;18
+51;No nutrient addition;Unflushed;4.7124;19
+52;Nutrient addition;Flushed;30.702;20
+53;No nutrient addition;Flushed;6.6164;21
+54;No nutrient addition;Flushed;3.6176;22
+55;Nutrient addition;Flushed;35.8785;23
+56;No nutrient addition;Unflushed;7.14;24
+57;No nutrient addition;Flushed;121.856;25
+58;Nutrient addition;Unflushed;123.522;26
+59;No nutrient addition;Flushed;8.8536;27
+60;Nutrient addition;Flushed;75.922;28
+61;No nutrient addition;Unflushed;29.61162791;29
+62;Nutrient addition;Unflushed;43.316;30
+63;Nutrient addition;Flushed;15.946;31
+64;No nutrient addition;Unflushed;7.14;32
+65;No nutrient addition;Unflushed;55.65538462;1
+66;No nutrient addition;Flushed;5.1;2
+67;Nutrient addition;Flushed;82.90333333;3
+68;Nutrient addition;Unflushed;96.78666667;4
+69;No nutrient addition;Unflushed;27.44933333;5
+70;Nutrient addition;Flushed;3.876;6
+71;Nutrient addition;Unflushed;58.63454545;7
+72;No nutrient addition;Flushed;26.18;8
+73;Nutrient addition;Flushed;6.732;9
+74;Nutrient addition;Unflushed;54.34333333;10
+75;Nutrient addition;Flushed;73.58166667;11
+76;No nutrient addition;Unflushed;7.072;12
+77;No nutrient addition;Unflushed;13.6;13
+78;Nutrient addition;Unflushed;9.792;14
+79;No nutrient addition;Flushed;9.044;15
+80;No nutrient addition;Flushed;3.468;16
+81;Nutrient addition;Unflushed;11.288;17
+82;Nutrient addition;Unflushed;18.292;18
+83;No nutrient addition;Unflushed;10.54;19
+84;Nutrient addition;Flushed;68.15454545;20
+85;No nutrient addition;Flushed;2.584;21
+86;No nutrient addition;Flushed;1.496;22
+87;Nutrient addition;Flushed;9.044;23
+88;No nutrient addition;Unflushed;4.76;24
+89;No nutrient addition;Flushed;95.99333333;25
+90;Nutrient addition;Unflushed;32.13;26
+91;No nutrient addition;Flushed;6.596;27
+92;Nutrient addition;Flushed;161.364;28
+93;No nutrient addition;Unflushed;22.372;29
+94;Nutrient addition;Unflushed;3.332;30
+95;Nutrient addition;Flushed;32.13;31
+96;No nutrient addition;Unflushed;3.4;32
+97;No nutrient addition;Unflushed;56.644;1
+98;No nutrient addition;Flushed;2.584;2
+99;Nutrient addition;Flushed;69.02;3
+100;Nutrient addition;Unflushed;86.07666667;4
+101;No nutrient addition;Unflushed;31.654;5
+102;Nutrient addition;Flushed;9.656;6
+103;Nutrient addition;Unflushed;69.88545455;7
+104;No nutrient addition;Flushed;29.988;8
+105;Nutrient addition;Flushed;11.9;9
+106;Nutrient addition;Unflushed;79.73;10
+107;Nutrient addition;Flushed;70.924;11
+108;No nutrient addition;Unflushed;11.696;12
+109;No nutrient addition;Unflushed;15.028;13
+110;Nutrient addition;Unflushed;19.176;14
+111;No nutrient addition;Flushed;11.56;15
+112;No nutrient addition;Flushed;7.956;16
+113;Nutrient addition;Unflushed;23.052;17
+114;Nutrient addition;Unflushed;14.008;18
+115;No nutrient addition;Unflushed;12.69333333;19
+116;Nutrient addition;Flushed;69.02;20
+117;No nutrient addition;Flushed;2.312;21
+118;No nutrient addition;Flushed;1.224;22
+119;Nutrient addition;Flushed;6.732;23
+120;No nutrient addition;Unflushed;9.928;24
+121;No nutrient addition;Flushed;65.05333333;25
+122;Nutrient addition;Unflushed;10.63066667;26
+123;No nutrient addition;Flushed;10.132;27
+124;Nutrient addition;Flushed;123.76;28
+125;No nutrient addition;Unflushed;21.182;29
+126;Nutrient addition;Unflushed;6.732;30
+127;Nutrient addition;Flushed;48.14923077;31
+128;No nutrient addition;Unflushed;4.352;32
+129;No nutrient addition;Unflushed;27.69454545;1
+130;No nutrient addition;Flushed;6.868;2
+131;Nutrient addition;Flushed;59.10333333;3
+132;Nutrient addition;Unflushed;96.628;4
+133;No nutrient addition;Unflushed;23.8;5
+134;Nutrient addition;Flushed;6.936;6
+135;Nutrient addition;Unflushed;59.5;7
+136;No nutrient addition;Flushed;9.724;8
+137;Nutrient addition;Flushed;8.228;9
+138;Nutrient addition;Unflushed;64.736;10
+139;Nutrient addition;Flushed;60.79818182;11
+140;No nutrient addition;Unflushed;8.908;12
+141;No nutrient addition;Unflushed;11.9;13
+142;Nutrient addition;Unflushed;12.58;14
+143;No nutrient addition;Flushed;8.976;15
+144;No nutrient addition;Flushed;5.168;16
+145;Nutrient addition;Unflushed;24.44909091;17
+146;Nutrient addition;Unflushed;19.584;18
+147;No nutrient addition;Unflushed;14.35933333;19
+148;Nutrient addition;Flushed;59.71636364;20
+149;No nutrient addition;Flushed;5.916;21
+150;No nutrient addition;Flushed;6.324;22
+151;Nutrient addition;Flushed;7.14;23
+152;No nutrient addition;Unflushed;6.664;24
+153;No nutrient addition;Flushed;70.60666667;25
+154;Nutrient addition;Unflushed;28.40133333;26
+155;No nutrient addition;Flushed;10.472;27
+156;Nutrient addition;Flushed;103.1333333;28
+157;No nutrient addition;Unflushed;14.67666667;29
+158;Nutrient addition;Unflushed;9.18;30
+159;Nutrient addition;Flushed;11.50333333;31
+160;No nutrient addition;Unflushed;3.604;32
+161;No nutrient addition;Unflushed;29.988;1
+162;No nutrient addition;Flushed;8.024;2
+163;Nutrient addition;Flushed;138.635;3
+164;Nutrient addition;Unflushed;238.595;4
+165;No nutrient addition;Unflushed;52.99466667;5
+166;Nutrient addition;Flushed;12.104;6
+167;Nutrient addition;Unflushed;139.4;7
+168;No nutrient addition;Flushed;8.772;8
+169;Nutrient addition;Flushed;11.696;9
+170;Nutrient addition;Unflushed;80.92;10
+171;Nutrient addition;Flushed;125.3466667;11
+172;No nutrient addition;Unflushed;11.424;12
+173;No nutrient addition;Unflushed;23.052;13
+174;Nutrient addition;Unflushed;8.228;14
+175;No nutrient addition;Flushed;21.284;15
+176;No nutrient addition;Flushed;11.764;16
+177;Nutrient addition;Unflushed;26.894;17
+178;Nutrient addition;Unflushed;60.3568;18
+179;No nutrient addition;Unflushed;52.67733333;19
+180;Nutrient addition;Flushed;141.4777778;20
+181;No nutrient addition;Flushed;9.996;21
+182;No nutrient addition;Flushed;11.764;22
+183;Nutrient addition;Flushed;7.072;23
+184;No nutrient addition;Unflushed;20.128;24
+185;No nutrient addition;Flushed;245.6774194;25
+186;Nutrient addition;Unflushed;199.325;26
+187;No nutrient addition;Flushed;25.466;27
+188;Nutrient addition;Flushed;257.8333333;28
+189;No nutrient addition;Unflushed;42.959;29
+190;Nutrient addition;Unflushed;60.248;30
+191;Nutrient addition;Flushed;51.408;31
+192;No nutrient addition;Unflushed;8.704;32
+193;No nutrient addition;Unflushed;103.649;1
+194;No nutrient addition;Flushed;6.307;2
+195;Nutrient addition;Flushed;273.224;3
+196;Nutrient addition;Unflushed;313.684;4
+197;No nutrient addition;Unflushed;88.298;5
+198;Nutrient addition;Flushed;21.2415;6
+199;Nutrient addition;Unflushed;183.26;7
+200;No nutrient addition;Flushed;11.1265;8
+201;Nutrient addition;Flushed;37.1875;9
+202;Nutrient addition;Unflushed;140.6844444;10
+203;Nutrient addition;Flushed;150.7333333;11
+204;No nutrient addition;Unflushed;18.7425;12
+205;No nutrient addition;Unflushed;34.51;13
+206;Nutrient addition;Unflushed;42.721;14
+207;No nutrient addition;Flushed;18.683;15
+208;No nutrient addition;Flushed;21.9555;16
+209;Nutrient addition;Unflushed;83.3;17
+210;Nutrient addition;Unflushed;78.6352;18
+211;No nutrient addition;Unflushed;56.168;19
+212;Nutrient addition;Flushed;210.63;20
+213;No nutrient addition;Flushed;18.7425;21
+214;No nutrient addition;Flushed;14.9345;22
+215;Nutrient addition;Flushed;9.52;23
+216;No nutrient addition;Unflushed;28.203;24
+217;No nutrient addition;Flushed;38.8416;25
+218;Nutrient addition;Unflushed;524.195;26
+219;No nutrient addition;Flushed;52.955;27
+220;Nutrient addition;Flushed;286.195;28
+221;No nutrient addition;Unflushed;50.456;29
+222;Nutrient addition;Unflushed;81.5745;30
+223;Nutrient addition;Flushed;172.38;31
+224;No nutrient addition;Unflushed;16.184;32
+225;No nutrient addition;Unflushed;83.895;1
+226;No nutrient addition;Flushed;13.8635;2
+227;Nutrient addition;Flushed;322.966;3
+228;Nutrient addition;Unflushed;325.584;4
+229;No nutrient addition;Unflushed;105.196;5
+230;Nutrient addition;Flushed;40.341;6
+231;Nutrient addition;Unflushed;291.788;7
+232;No nutrient addition;Flushed;7.973;8
+233;Nutrient addition;Flushed;8.687;9
+234;Nutrient addition;Unflushed;133.28;10
+235;Nutrient addition;Flushed;168.028;11
+236;No nutrient addition;Unflushed;20.8845;12
+237;No nutrient addition;Unflushed;55.3945;13
+238;Nutrient addition;Unflushed;20.944;14
+239;No nutrient addition;Flushed;26.18;15
+240;No nutrient addition;Flushed;21.658;16
+241;Nutrient addition;Unflushed;123.284;17
+242;Nutrient addition;Unflushed;26.775;18
+243;No nutrient addition;Unflushed;22.61;19
+244;Nutrient addition;Flushed;213.248;20
+245;No nutrient addition;Flushed;7.0805;21
+246;No nutrient addition;Flushed;4.998;22
+247;Nutrient addition;Flushed;4.998;23
+248;No nutrient addition;Unflushed;7.3185;24
+249;No nutrient addition;Flushed;2.4395;25
+250;Nutrient addition;Unflushed;611.66;26
+251;No nutrient addition;Flushed;56.2275;27
+252;Nutrient addition;Flushed;153.748;28
+253;No nutrient addition;Unflushed;39.032;29
+254;Nutrient addition;Unflushed;9.3415;30
+255;Nutrient addition;Flushed;188.496;31
+256;No nutrient addition;Unflushed;13.7445;32
+257;Nutrient addition;Flushed;250.852;3
+258;Nutrient addition;Unflushed;290.836;4
+259;Nutrient addition;Unflushed;432.684;7
+260;Nutrient addition;Unflushed;562.156;26
+261;Nutrient addition;Flushed;132.328;20
+262;Nutrient addition;Flushed;141.848;11
+263;No nutrient addition;Unflushed;108.29;5
+264;Nutrient addition;Flushed;91.392;28
+265;No nutrient addition;Unflushed;88.536;1
+266;Nutrient addition;Unflushed;141.372;10
+267;Nutrient addition;Flushed;20.349;6
+268;No nutrient addition;Flushed;37.842;27
+269;No nutrient addition;Unflushed;18.088;12
+270;Nutrient addition;Flushed;162.316;31
+271;No nutrient addition;Flushed;13.5065;16
+272;No nutrient addition;Unflushed;26.418;19
+273;No nutrient addition;Unflushed;35.0455;29
+274;Nutrient addition;Unflushed;45.22;17
+275;Nutrient addition;Unflushed;11.662;14
+276;No nutrient addition;Flushed;16.184;2
+277;Nutrient addition;Unflushed;30.0475;18
+278;No nutrient addition;Flushed;3.927;22
+279;No nutrient addition;Unflushed;75.0295;13
+280;No nutrient addition;Flushed;4.284;25
+281;Nutrient addition;Unflushed;7.9135;30
+282;No nutrient addition;Unflushed;16.184;32
+283;No nutrient addition;Flushed;5.4145;21
+284;No nutrient addition;Flushed;6.0095;8
+285;Nutrient addition;Flushed;7.14;9
+286;Nutrient addition;Flushed;7.854;23
+287;No nutrient addition;Unflushed;14.6965;24
+288;No nutrient addition;Flushed;19.3375;15
+289;Nutrient addition;Flushed;303.45;3
+290;Nutrient addition;Unflushed;311.304;4
+291;Nutrient addition;Unflushed;426.02;7
+292;Nutrient addition;Unflushed;550.97;26
+293;Nutrient addition;Flushed;145.4775;31
+294;Nutrient addition;Flushed;143.276;20
+295;Nutrient addition;Flushed;156.604;11
+296;No nutrient addition;Unflushed;117.81;5
+297;Nutrient addition;Flushed;82.38461538;28
+298;Nutrient addition;Unflushed;112.336;10
+299;Nutrient addition;Flushed;23.0265;6
+300;No nutrient addition;Unflushed;84.609;1
+301;No nutrient addition;Flushed;37.366;27
+302;Nutrient addition;Unflushed;10.115;14
+303;No nutrient addition;Unflushed;30.464;19
+304;No nutrient addition;Unflushed;78.9565;13
+305;Nutrient addition;Unflushed;24.276;18
+306;No nutrient addition;Flushed;14.875;16
+307;Nutrient addition;Unflushed;14.3752;17
+308;No nutrient addition;Flushed;23.562;2
+309;No nutrient addition;Unflushed;18.445;12
+310;No nutrient addition;Flushed;3.451;22
+311;No nutrient addition;Flushed;7.1995;8
+312;Nutrient addition;Flushed;4.2245;23
+313;Nutrient addition;Flushed;5.355;9
+314;No nutrient addition;Flushed;5.95;21
+315;No nutrient addition;Unflushed;5.4145;24
+316;No nutrient addition;Flushed;6.069;25
+317;No nutrient addition;Flushed;21.063;15
+318;Nutrient addition;Unflushed;7.9135;30
+319;No nutrient addition;Unflushed;17.493;32
+320;No nutrient addition;Unflushed;38.1395;29
+321;Nutrient addition;Flushed;204.918;3
+322;Nutrient addition;Unflushed;285.6;4
+323;Nutrient addition;Unflushed;466.48;7
+324;Nutrient addition;Flushed;173.74;11
+325;Nutrient addition;Flushed;155.652;20
+326;Nutrient addition;Unflushed;467.075;26
+327;Nutrient addition;Flushed;170.4675;31
+328;No nutrient addition;Unflushed;119.476;5
+329;Nutrient addition;Flushed;141.3353846;28
+330;Nutrient addition;Unflushed;119;10
+331;No nutrient addition;Flushed;35.938;27
+332;No nutrient addition;Unflushed;97.223;1
+333;No nutrient addition;Unflushed;38.08;19
+334;Nutrient addition;Unflushed;27.132;18
+335;No nutrient addition;Unflushed;132.804;13
+336;Nutrient addition;Flushed;23.3835;6
+337;No nutrient addition;Flushed;55.097;25
+338;No nutrient addition;Unflushed;10.234;12
+339;Nutrient addition;Unflushed;9.1035;14
+340;Nutrient addition;Unflushed;10.63066667;17
+341;Nutrient addition;Unflushed;8.7465;30
+342;No nutrient addition;Flushed;11.543;16
+343;No nutrient addition;Flushed;23.7405;2
+344;Nutrient addition;Flushed;5.7715;9
+345;No nutrient addition;Flushed;6.4855;21
+346;No nutrient addition;Unflushed;19.4565;32
+347;No nutrient addition;Flushed;9.52;8
+348;No nutrient addition;Flushed;3.1535;22
+349;Nutrient addition;Flushed;7.1995;23
+350;No nutrient addition;Unflushed;4.5815;24
+351;No nutrient addition;Flushed;11.9595;15
+352;No nutrient addition;Unflushed;37.842;29
+353;Nutrient addition;Unflushed;303.212;4
+354;Nutrient addition;Unflushed;676.872;7
+355;Nutrient addition;Flushed;164.696;20
+356;Nutrient addition;Flushed;171.836;31
+357;Nutrient addition;Flushed;167.076;11
+358;No nutrient addition;Unflushed;121.856;5
+359;Nutrient addition;Flushed;103.9266667;28
+360;Nutrient addition;Flushed;115.906;3
+361;Nutrient addition;Unflushed;53.074;26
+362;No nutrient addition;Flushed;43.95066667;27
+363;No nutrient addition;Flushed;26.9535;25
+364;No nutrient addition;Unflushed;45.101;19
+365;Nutrient addition;Unflushed;9.4605;14
+366;Nutrient addition;Flushed;17.493;6
+367;No nutrient addition;Unflushed;111.265;13
+368;Nutrient addition;Unflushed;29.155;17
+369;Nutrient addition;Unflushed;19.159;18
+370;Nutrient addition;Flushed;5.4145;23
+371;No nutrient addition;Unflushed;16.66;1
+372;Nutrient addition;Unflushed;66.759;10
+373;Nutrient addition;Flushed;7.7945;9
+374;No nutrient addition;Flushed;5.2955;21
+375;No nutrient addition;Unflushed;36.8305;32
+376;Nutrient addition;Unflushed;8.806;30
+377;No nutrient addition;Flushed;6.3665;16
+378;No nutrient addition;Flushed;6.4855;22
+379;No nutrient addition;Unflushed;6.0095;24
+380;No nutrient addition;Flushed;6.1285;8
+381;No nutrient addition;Flushed;3.927;15
+382;No nutrient addition;Flushed;23.681;2
+383;No nutrient addition;Unflushed;33.796;29
+384;No nutrient addition;Unflushed;14.399;12
+385;Nutrient addition;Unflushed;279.412;4
+386;Nutrient addition;Unflushed;614.992;7
+387;Nutrient addition;Unflushed;254.66;26
+388;Nutrient addition;Flushed;153.5893333;28
+389;Nutrient addition;Flushed;182.308;11
+390;Nutrient addition;Flushed;104.72;20
+391;No nutrient addition;Unflushed;89.964;5
+392;No nutrient addition;Flushed;24.157;25
+393;Nutrient addition;Flushed;40.5552;3
+394;Nutrient addition;Unflushed;105.4;17
+395;Nutrient addition;Unflushed;50.6345;18
+396;Nutrient addition;Flushed;107.814;6
+397;No nutrient addition;Flushed;15.20555556;27
+398;Nutrient addition;Flushed;18.1475;9
+399;Nutrient addition;Unflushed;14.756;14
+400;Nutrient addition;Flushed;10.0555;23
+401;Nutrient addition;Unflushed;29.869;30
+402;No nutrient addition;Unflushed;7.854;1
+403;No nutrient addition;Unflushed;8.9845;12
+404;No nutrient addition;Unflushed;18.1475;24
+405;No nutrient addition;Unflushed;22.729;29
+406;No nutrient addition;Unflushed;16.97733333;19
+407;No nutrient addition;Flushed;11.6025;21
+408;No nutrient addition;Flushed;6.4855;22
+409;No nutrient addition;Flushed;17.85;8
+410;No nutrient addition;Flushed;7.7945;15
+411;No nutrient addition;Flushed;4.046;16
+412;No nutrient addition;Unflushed;23.0265;32
+413;Nutrient addition;Flushed;63.16153846;31
+414;No nutrient addition;Flushed;20.4085;2
+415;Nutrient addition;Unflushed;23.324;10
+416;No nutrient addition;Unflushed;99.127;13
+417;Nutrient addition;Unflushed;331.772;4
+418;Nutrient addition;Unflushed;635.936;7
+419;Nutrient addition;Unflushed;370.09;26
+420;Nutrient addition;Flushed;129.948;11
+421;Nutrient addition;Flushed;86.156;20
+422;Nutrient addition;Flushed;118.4288;28
+423;No nutrient addition;Unflushed;96.152;5
+424;Nutrient addition;Unflushed;124.0773333;17
+425;Nutrient addition;Flushed;83.0144;3
+426;Nutrient addition;Unflushed;96.866;18
+427;Nutrient addition;Flushed;142.324;6
+428;Nutrient addition;Unflushed;33.9745;14
+429;Nutrient addition;Unflushed;64.26;30
+430;Nutrient addition;Flushed;17.7905;9
+431;No nutrient addition;Flushed;10.234;27
+432;No nutrient addition;Flushed;15.827;25
+433;No nutrient addition;Unflushed;32.249;29
+434;No nutrient addition;Unflushed;10.2935;1
+435;Nutrient addition;Unflushed;34.986;10
+436;No nutrient addition;Unflushed;15.54933333;19
+437;No nutrient addition;Unflushed;66.997;13
+438;No nutrient addition;Flushed;9.52;21
+439;Nutrient addition;Flushed;10.234;23
+440;No nutrient addition;Unflushed;25.347;32
+441;No nutrient addition;Flushed;6.307;22
+442;No nutrient addition;Flushed;11.1265;8
+443;No nutrient addition;Flushed;7.616;15
+444;No nutrient addition;Flushed;4.165;16
+445;No nutrient addition;Flushed;15.113;2
+446;No nutrient addition;Unflushed;21.2415;24
+447;No nutrient addition;Unflushed;10.829;12
+448;Nutrient addition;Flushed;49.45111111;31
+449;Nutrient addition;Unflushed;302.26;4
+450;Nutrient addition;Unflushed;523.6;7
+451;Nutrient addition;Flushed;139.468;11
+452;Nutrient addition;Unflushed;474.81;26
+453;Nutrient addition;Flushed;99.008;20
+454;Nutrient addition;Flushed;143.1808;28
+455;Nutrient addition;Unflushed;167.7553398;17
+456;Nutrient addition;Unflushed;231.812;18
+457;No nutrient addition;Unflushed;85.68;5
+458;Nutrient addition;Flushed;126.9968;3
+459;Nutrient addition;Unflushed;43.4945;14
+460;Nutrient addition;Unflushed;92.225;30
+461;No nutrient addition;Flushed;43.7325;25
+462;Nutrient addition;Flushed;17.136;9
+463;Nutrient addition;Flushed;118.048;6
+464;Nutrient addition;Unflushed;101.5466667;10
+465;No nutrient addition;Unflushed;25.6445;29
+466;Nutrient addition;Flushed;59.262;31
+467;No nutrient addition;Flushed;7.497;27
+468;No nutrient addition;Unflushed;13.16933333;19
+469;No nutrient addition;Flushed;14.6965;21
+470;Nutrient addition;Flushed;21.1225;23
+471;No nutrient addition;Unflushed;9.401;1
+472;No nutrient addition;Unflushed;23.9785;32
+473;No nutrient addition;Flushed;17.731;15
+474;No nutrient addition;Flushed;9.877;16
+475;No nutrient addition;Flushed;8.8655;22
+476;No nutrient addition;Flushed;23.5025;8
+477;No nutrient addition;Unflushed;59.5;13
+478;No nutrient addition;Unflushed;11.3645;12
+479;No nutrient addition;Unflushed;24.5735;24
+480;No nutrient addition;Flushed;18.2665;2
+481;Nutrient addition;Unflushed;306.068;4
+482;Nutrient addition;Unflushed;721.14;7
+483;Nutrient addition;Flushed;141.848;20
+484;Nutrient addition;Unflushed;612.136;26
+485;Nutrient addition;Flushed;174.692;11
+486;Nutrient addition;Flushed;168.028;28
+487;Nutrient addition;Unflushed;189;18
+488;Nutrient addition;Flushed;95.914;6
+489;Nutrient addition;Unflushed;157.08;14
+490;Nutrient addition;Unflushed;171.6773333;17
+491;Nutrient addition;Flushed;293.216;3
+492;No nutrient addition;Flushed;29.6905;25
+493;No nutrient addition;Unflushed;79.016;5
+494;Nutrient addition;Unflushed;124.712;30
+495;Nutrient addition;Flushed;35.4025;9
+496;Nutrient addition;Flushed;53.3715;23
+497;No nutrient addition;Unflushed;66.045;13
+498;Nutrient addition;Unflushed;272.272;10
+499;Nutrient addition;Flushed;87.584;31
+500;No nutrient addition;Unflushed;20.5275;29
+501;No nutrient addition;Unflushed;16.7195;1
+502;No nutrient addition;Flushed;10.591;16
+503;No nutrient addition;Unflushed;12.376;19
+504;No nutrient addition;Flushed;8.449;22
+505;No nutrient addition;Flushed;16.898;21
+506;No nutrient addition;Flushed;14.637;15
+507;No nutrient addition;Flushed;11.58266667;27
+508;No nutrient addition;Unflushed;35.581;32
+509;No nutrient addition;Flushed;18.0285;2
+510;No nutrient addition;Flushed;33.796;8
+511;No nutrient addition;Unflushed;12.257;12
+512;No nutrient addition;Unflushed;20.944;24
+513;Nutrient addition;Unflushed;449.225;7
+514;Nutrient addition;Unflushed;776.3127273;30
+515;Nutrient addition;Flushed;211.82;20
+516;Nutrient addition;Unflushed;294.644;4
+517;Nutrient addition;Unflushed;206.2666667;26
+518;Nutrient addition;Flushed;243.712;11
+519;Nutrient addition;Flushed;152.32;9
+520;Nutrient addition;Flushed;340.4986667;3
+521;Nutrient addition;Unflushed;218.96;14
+522;Nutrient addition;Flushed;26.0848;28
+523;No nutrient addition;Flushed;17.136;25
+524;No nutrient addition;Unflushed;24.752;29
+525;No nutrient addition;Unflushed;79.3968;13
+526;No nutrient addition;Unflushed;61.88;5
+527;Nutrient addition;Unflushed;52.28066667;10
+528;Nutrient addition;Unflushed;61.642;17
+529;Nutrient addition;Unflushed;37.604;18
+530;No nutrient addition;Flushed;19.159;22
+531;No nutrient addition;Unflushed;25.2875;24
+532;Nutrient addition;Flushed;50.694;23
+533;No nutrient addition;Unflushed;31.416;32
+534;No nutrient addition;Flushed;29.393;15
+535;No nutrient addition;Unflushed;6.426;19
+536;No nutrient addition;Flushed;10.234;27
+537;Nutrient addition;Flushed;112.88;31
+538;No nutrient addition;Flushed;12.733;2
+539;No nutrient addition;Flushed;12.4355;16
+540;No nutrient addition;Flushed;15.113;21
+541;Nutrient addition;Flushed;107.814;6
+542;No nutrient addition;Unflushed;17.4335;1
+543;No nutrient addition;Flushed;28.40133333;8
+544;No nutrient addition;Unflushed;18.3855;12
+545;No nutrient addition;Unflushed;308.5075;13
+546;Nutrient addition;Flushed;157.8733333;9
+547;Nutrient addition;Flushed;395.08;3
+548;Nutrient addition;Unflushed;228.14;26
+549;Nutrient addition;Unflushed;347.004;4
+550;Nutrient addition;Flushed;167.79;20
+551;Nutrient addition;Flushed;311.78;11
+552;No nutrient addition;Flushed;41.32545455;25
+553;Nutrient addition;Flushed;127.092;28
+554;Nutrient addition;Flushed;234.8266667;31
+555;Nutrient addition;Unflushed;73.70066667;17
+556;No nutrient addition;Unflushed;32.1895;1
+557;No nutrient addition;Flushed;26.418;15
+558;No nutrient addition;Unflushed;33.95466667;5
+559;Nutrient addition;Unflushed;123.522;14
+560;Nutrient addition;Unflushed;47.481;10
+561;Nutrient addition;Unflushed;41.9832;18
+562;No nutrient addition;Unflushed;19.4565;32
+563;Nutrient addition;Flushed;61.642;23
+564;No nutrient addition;Flushed;12.495;21
+565;No nutrient addition;Flushed;16.81866667;27
+566;Nutrient addition;Unflushed;27.608;30
+567;No nutrient addition;Flushed;21.3248;8
+568;No nutrient addition;Unflushed;15.0535;29
+569;No nutrient addition;Unflushed;22.372;24
+570;No nutrient addition;Unflushed;8.1515;19
+571;No nutrient addition;Flushed;25.704;22
+572;No nutrient addition;Flushed;8.092;2
+573;No nutrient addition;Flushed;11.662;16
+574;Nutrient addition;Flushed;181.8716667;6
+575;Nutrient addition;Unflushed;579.9266667;7
+576;No nutrient addition;Unflushed;12.852;12
+577;No nutrient addition;Unflushed;283.22;13
+578;Nutrient addition;Flushed;227.8453333;9
+579;Nutrient addition;Unflushed;294.78;26
+580;Nutrient addition;Flushed;268.26;3
+581;Nutrient addition;Unflushed;391.272;4
+582;Nutrient addition;Flushed;194.565;11
+583;Nutrient addition;Flushed;144.585;20
+584;No nutrient addition;Unflushed;50.5155;1
+585;Nutrient addition;Unflushed;258.6266667;17
+586;Nutrient addition;Flushed;96.9;28
+587;Nutrient addition;Unflushed;75.803;10
+588;No nutrient addition;Flushed;28.917;15
+589;No nutrient addition;Flushed;24.99;25
+590;Nutrient addition;Unflushed;143.99;14
+591;No nutrient addition;Unflushed;19.397;32
+592;Nutrient addition;Unflushed;65.688;18
+593;Nutrient addition;Flushed;34.34;23
+594;Nutrient addition;Unflushed;25.5255;30
+595;No nutrient addition;Unflushed;4.879;19
+596;No nutrient addition;Unflushed;14.1015;24
+597;No nutrient addition;Flushed;9.52;27
+598;No nutrient addition;Unflushed;17.374;29
+599;No nutrient addition;Flushed;6.9615;2
+600;No nutrient addition;Flushed;6.307;21
+601;No nutrient addition;Flushed;15.113;22
+602;No nutrient addition;Flushed;17.4216;8
+603;No nutrient addition;Unflushed;24.99;5
+604;No nutrient addition;Flushed;9.044;16
+605;Nutrient addition;Flushed;217.056;6
+606;Nutrient addition;Unflushed;531.335;7
+607;No nutrient addition;Unflushed;15.47;12
+608;Nutrient addition;Flushed;179.452;31
+609;Nutrient addition;Flushed;338.64;3
+610;No nutrient addition;Unflushed;257.635;13
+611;Nutrient addition;Flushed;310.9866667;9
+612;Nutrient addition;Unflushed;268.94;26
+613;Nutrient addition;Flushed;118.66;28
+614;No nutrient addition;Unflushed;98.651;1
+615;Nutrient addition;Unflushed;172.312;17
+616;Nutrient addition;Unflushed;405.552;4
+617;Nutrient addition;Flushed;179.095;11
+618;Nutrient addition;Unflushed;118.048;10
+619;Nutrient addition;Flushed;151.844;31
+620;No nutrient addition;Flushed;44.85384615;15
+621;Nutrient addition;Flushed;124.95;20
+622;No nutrient addition;Unflushed;5.8905;19
+623;No nutrient addition;Flushed;36.295;25
+624;Nutrient addition;Unflushed;79.254;18
+625;Nutrient addition;Unflushed;139.944;14
+626;No nutrient addition;Unflushed;18.207;24
+627;Nutrient addition;Unflushed;25.585;30
+628;No nutrient addition;Unflushed;20.111;32
+629;Nutrient addition;Flushed;22.304;23
+630;No nutrient addition;Unflushed;16.779;5
+631;No nutrient addition;Flushed;15.708;27
+632;No nutrient addition;Flushed;9.639;21
+633;No nutrient addition;Flushed;9.8175;2
+634;No nutrient addition;Unflushed;19.3375;29
+635;No nutrient addition;Flushed;11.4835;16
+636;No nutrient addition;Flushed;7.616;22
+637;No nutrient addition;Flushed;11.5192;8
+638;No nutrient addition;Unflushed;11.0075;12
+639;Nutrient addition;Flushed;235.62;6
+640;Nutrient addition;Unflushed;349.86;7
+641;Nutrient addition;Flushed;548.9866667;28
+642;Nutrient addition;Flushed;564.8533333;3
+643;Nutrient addition;Flushed;440.776;9
+644;Nutrient addition;Unflushed;387.7813333;17
+645;No nutrient addition;Unflushed;165.648;24
+646;Nutrient addition;Unflushed;248.71;26
+647;Nutrient addition;Unflushed;451.248;4
+648;No nutrient addition;Unflushed;97.699;1
+649;No nutrient addition;Unflushed;246.7266667;13
+650;Nutrient addition;Unflushed;371.756;10
+651;Nutrient addition;Flushed;231.455;11
+652;Nutrient addition;Flushed;143.99;20
+653;No nutrient addition;Flushed;71.74;15
+654;No nutrient addition;Flushed;46.92;25
+655;Nutrient addition;Unflushed;149.702;18
+656;No nutrient addition;Flushed;9.996;2
+657;Nutrient addition;Flushed;39.90466667;23
+658;No nutrient addition;Unflushed;27.132;5
+659;No nutrient addition;Unflushed;19.8135;32
+660;Nutrient addition;Flushed;106.148;6
+661;No nutrient addition;Unflushed;28.322;29
+662;Nutrient addition;Flushed;272.1133333;31
+663;No nutrient addition;Flushed;11.662;22
+664;No nutrient addition;Flushed;11.7096;27
+665;Nutrient addition;Unflushed;66.283;30
+666;No nutrient addition;Unflushed;5.831;19
+667;No nutrient addition;Flushed;11.8405;21
+668;Nutrient addition;Unflushed;242.76;7
+669;No nutrient addition;Flushed;10.3768;8
+670;No nutrient addition;Unflushed;7.14;12
+671;Nutrient addition;Unflushed;220.388;14
+672;No nutrient addition;Flushed;13.1495;16
+673;Nutrient addition;Unflushed;1346.128;17
+674;Nutrient addition;Flushed;782.544;28
+675;Nutrient addition;Flushed;785.4;3
+676;Nutrient addition;Flushed;427.1306667;23
+677;Nutrient addition;Unflushed;322.49;18
+678;No nutrient addition;Flushed;247.52;25
+679;Nutrient addition;Flushed;456.96;31
+680;No nutrient addition;Unflushed;210.63;29
+681;Nutrient addition;Unflushed;311.78;26
+682;Nutrient addition;Unflushed;456.008;4
+683;No nutrient addition;Flushed;207.298;15
+684;Nutrient addition;Flushed;349.86;11
+685;No nutrient addition;Unflushed;188.8133333;13
+686;No nutrient addition;Flushed;102.459;22
+687;Nutrient addition;Unflushed;138.992;7
+688;Nutrient addition;Flushed;114.002;6
+689;Nutrient addition;Flushed;149.1466667;20
+690;Nutrient addition;Unflushed;162.554;30
+691;No nutrient addition;Unflushed;42.602;5
+692;No nutrient addition;Unflushed;80.563;1
+693;Nutrient addition;Unflushed;81.277;10
+694;No nutrient addition;Flushed;25.585;27
+695;No nutrient addition;Flushed;25.823;2
+696;No nutrient addition;Flushed;23.5025;21
+697;Nutrient addition;Unflushed;115.43;14
+698;No nutrient addition;Unflushed;33.47866667;32
+699;Nutrient addition;Flushed;211.344;9
+700;No nutrient addition;Unflushed;26.7155;19
+701;No nutrient addition;Flushed;15.2915;16
+702;No nutrient addition;Flushed;11.8048;8
+703;No nutrient addition;Unflushed;20.0515;12
+704;No nutrient addition;Unflushed;58.70666667;24
+705;Nutrient addition;Flushed;625.94;11
+706;Nutrient addition;Unflushed;508.5266667;4
+707;Nutrient addition;Flushed;495.04;20
+708;No nutrient addition;Unflushed;252.5775;13
+709;No nutrient addition;Flushed;183.26;25
+710;Nutrient addition;Unflushed;97.104;26
+711;Nutrient addition;Unflushed;177.3893333;18
+712;Nutrient addition;Unflushed;375.564;7
+713;No nutrient addition;Flushed;83.776;2
+714;No nutrient addition;Unflushed;131.614;1
+715;No nutrient addition;Unflushed;117.2546667;24
+716;No nutrient addition;Flushed;76.636;27
+717;No nutrient addition;Flushed;21.658;22
+718;Nutrient addition;Flushed;170.17;6
+719;No nutrient addition;Unflushed;51.765;32
+720;Nutrient addition;Flushed;773.5;3
+721;Nutrient addition;Unflushed;181.356;30
+722;No nutrient addition;Unflushed;60.76933333;29
+723;Nutrient addition;Unflushed;156.7626667;17
+724;No nutrient addition;Flushed;23.324;21
+725;No nutrient addition;Flushed;87.822;15
+726;Nutrient addition;Unflushed;34.986;10
+727;Nutrient addition;Flushed;3.3915;28
+728;No nutrient addition;Unflushed;40.222;5
+729;No nutrient addition;Flushed;8.687;16
+730;No nutrient addition;Flushed;15.827;8
+731;No nutrient addition;Unflushed;14.518;12
+732;Nutrient addition;Flushed;245.14;9
+733;Nutrient addition;Unflushed;269.535;14
+734;No nutrient addition;Unflushed;17.7905;19
+735;Nutrient addition;Flushed;157.7146667;23
+736;Nutrient addition;Flushed;397.936;31
+737;Nutrient addition;Flushed;378.69156;31
+738;Nutrient addition;Unflushed;403.76826;4
+739;Nutrient addition;Flushed;370.94058;20
+740;Nutrient addition;Flushed;326.25846;11
+741;No nutrient addition;Unflushed;308.4768;13
+742;Nutrient addition;Unflushed;141.75474;26
+743;Nutrient addition;Unflushed;393.28164;18
+744;No nutrient addition;Flushed;108.31914;25
+745;No nutrient addition;Unflushed;120.17358;1
+746;No nutrient addition;Flushed;68.95632;2
+747;No nutrient addition;Flushed;81.03873;27
+748;No nutrient addition;Unflushed;174.20247;24
+749;No nutrient addition;Unflushed;78.2271;32
+750;Nutrient addition;Unflushed;559.2438;7
+751;Nutrient addition;Unflushed;499.9716;30
+752;Nutrient addition;Flushed;141.2988;6
+753;Nutrient addition;Unflushed;155.50893;17
+754;No nutrient addition;Unflushed;58.24173;29
+755;Nutrient addition;Unflushed;77.61918;10
+756;No nutrient addition;Flushed;62.64915;15
+757;No nutrient addition;Flushed;41.97987;22
+758;No nutrient addition;Flushed;36.20463;21
+759;No nutrient addition;Unflushed;48.36303;12
+760;Nutrient addition;Flushed;40.76403;28
+761;No nutrient addition;Flushed;32.78508;16
+762;Nutrient addition;Flushed;728.39754;3
+763;No nutrient addition;Flushed;34.07691;8
+764;No nutrient addition;Unflushed;93.04515;5
+765;Nutrient addition;Flushed;458.02512;9
+766;Nutrient addition;Unflushed;804.08358;14
+767;No nutrient addition;Unflushed;67.05657;19
+768;Nutrient addition;Flushed;383.7069;23
+769;Nutrient addition;Flushed;369.57276;20
+770;Nutrient addition;Unflushed;411.51924;4
+771;Nutrient addition;Flushed;376.8678;11
+772;No nutrient addition;Unflushed;310.30056;13
+773;Nutrient addition;Unflushed;168.73119;26
+774;No nutrient addition;Flushed;126.32877;25
+775;No nutrient addition;Unflushed;110.37087;1
+776;No nutrient addition;Unflushed;312.12432;24
+777;No nutrient addition;Flushed;76.55532;27
+778;No nutrient addition;Unflushed;75.49146;32
+779;No nutrient addition;Unflushed;220.48038;29
+780;Nutrient addition;Unflushed;422.91774;30
+781;Nutrient addition;Flushed;100.79613;6
+782;Nutrient addition;Unflushed;448.90632;18
+783;No nutrient addition;Unflushed;53.75832;12
+784;No nutrient addition;Flushed;65.53677;15
+785;No nutrient addition;Flushed;85.59813;22
+786;Nutrient addition;Unflushed;88.78971;10
+787;Nutrient addition;Flushed;233.2467;28
+788;No nutrient addition;Flushed;34.1529;16
+789;No nutrient addition;Flushed;36.88854;2
+790;Nutrient addition;Unflushed;67.20855;17
+791;Nutrient addition;Flushed;342.6723;31
+792;No nutrient addition;Flushed;40.46007;8
+793;No nutrient addition;Flushed;32.17716;21
+794;Nutrient addition;Flushed;609.85314;3
+795;No nutrient addition;Unflushed;85.90209;5
+796;Nutrient addition;Unflushed;697.39362;7
+797;Nutrient addition;Flushed;408.7836;9
+798;Nutrient addition;Unflushed;457.11324;14
+799;No nutrient addition;Unflushed;57.55782;19
+800;Nutrient addition;Flushed;334.46538;23
+801;Nutrient addition;Unflushed;1467.984;4
+802;Nutrient addition;Unflushed;229.075;26
+803;No nutrient addition;Unflushed;271.32;13
+804;No nutrient addition;Flushed;204.68;25
+805;Nutrient addition;Unflushed;177.786;30
+806;Nutrient addition;Flushed;434.588;28
+807;No nutrient addition;Unflushed;15.07333333;32
+808;Nutrient addition;Flushed;477.5866667;3
+809;No nutrient addition;Unflushed;61.642;1
+810;No nutrient addition;Unflushed;148.988;24
+811;Nutrient addition;Unflushed;875.84;18
+812;Nutrient addition;Unflushed;49.5635;10
+813;No nutrient addition;Unflushed;264.18;29
+814;Nutrient addition;Flushed;655.2933333;20
+815;Nutrient addition;Flushed;728.28;11
+816;No nutrient addition;Flushed;48.195;22
+817;Nutrient addition;Flushed;165.648;9
+818;No nutrient addition;Unflushed;23.7405;12
+819;No nutrient addition;Flushed;22.61;27
+820;No nutrient addition;Flushed;9.4605;16
+821;Nutrient addition;Flushed;166.6;31
+822;No nutrient addition;Flushed;72.59;15
+823;No nutrient addition;Flushed;12.138;2
+824;No nutrient addition;Flushed;19.7064;8
+825;No nutrient addition;Unflushed;6.6045;19
+826;Nutrient addition;Flushed;54.42266667;23
+827;Nutrient addition;Unflushed;164.22;17
+828;No nutrient addition;Flushed;6.2475;21
+829;No nutrient addition;Unflushed;18.326;5
+830;Nutrient addition;Flushed;154.224;6
+831;Nutrient addition;Unflushed;1012.928;7
+832;Nutrient addition;Unflushed;133.28;14
