@@ -2,7 +2,7 @@
 
 This repository contains the **regression metadata**, the **174 paired-stressor response datasets** as well as the **R-code** used in the study:
 
-*Birk et al. 2020.* Impacts of multiple stressors on freshwater biota across spatial scales and ecosystems. *Provisionally accepted in Nat. Ecol. Evol.*
+*Birk et al. 2020.* Impacts of multiple stressors on freshwater biota across spatial scales and ecosystems. *Accepted in Nat. Ecol. Evol.*  https://doi.org/10.1038/s41559-020-1216-4
 
 The folder *"[Data](Data)"* includes
 1. the **regression metadata** (*"[0_Metadata.csv](/Data/0_Metadata.csv)"*) as *semicolon-separated values* and the file *"[00_Legend_Metadata.md](/Data/00_Legend_Metadata.md)"* specifying the column-headers;
